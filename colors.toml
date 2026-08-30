@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Nintendo Game Boy-inspired: olive LCD tones with the handheld's plum accents.
+accent = "#B7C66A"
+selection = "#3F4820"
+muted = "#6B7433"
+
+background = "#17121B"
+dark_background = "#100D13"
+darker_background = "#0A080C"
+lighter_background = "#241A29"
+
+foreground = "#D7E894"
+dark_foreground = "#6B7433"
+light_foreground = "#B7C66A"
+bright_foreground = "#EFFFB0"
+
+hyprland_active_border = "rgba(b7c66aff) rgba(8b4263ff)"
+hyprland_inactive_border = "rgba(3f482099)"
+active_border_color = "#B7C66A"
+active_tab_background = "#3F4820"
+
+red = "#C45B72"
+yellow = "#D5C96C"
+orange = "#C98B55"
+green = "#8FA64A"
+cyan = "#9DBB70"
+blue = "#748B73"
+magenta = "#A45A7A"
+brown = "#856B45"
+
+bright_red = "#E07A8F"
+bright_yellow = "#EEE083"
+bright_green = "#B7C66A"
+bright_cyan = "#C7DB8B"
+bright_blue = "#91A993"
+bright_magenta = "#C87599"
